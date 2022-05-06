@@ -19,6 +19,10 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.356);
 }
 
+select {
+    width: 150px;
+}
+
 div {
     text-align: center;
     padding: 8px;
